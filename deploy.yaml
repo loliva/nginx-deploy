@@ -18,6 +18,6 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: nginxX
+      - image: nginx
         name: nginx
         resources: {}
