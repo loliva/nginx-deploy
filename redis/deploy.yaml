@@ -18,7 +18,7 @@ spec:
         app: redis
     spec:
       containers:
-      - image: rediss
+      - image: redis
         name: redis
         resources: {}
 status: {}
